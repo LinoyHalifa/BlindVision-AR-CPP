@@ -1,0 +1,28 @@
+# Build / CMake / IDE
+out/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+.vs/
+.vscode/
+x64/
+Debug/
+Release/
+*.vcxproj*
+*.sln
+*.user
+
+# Binaries
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.obj
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
